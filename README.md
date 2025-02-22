@@ -47,4 +47,9 @@ gym-club/
 
 ## Imagens do Projeto
 
+#Home Page
 ![Descrição da Imagem](imagensprojeto/home1.jpeg)
+![Descrição da Imagem](imagensprojeto/home2.jpeg)
+![Descrição da Imagem](imagensprojeto/home3.jpeg)
+![Descrição da Imagem](imagensprojeto/home4.jpeg)
+![Descrição da Imagem](imagensprojeto/home5.jpeg)

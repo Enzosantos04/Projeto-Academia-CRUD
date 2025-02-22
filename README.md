@@ -4,7 +4,7 @@ Bem-vindo ao Gym's Club! Este projeto é um site para uma academia que permite o
 
 ## Funcionalidades
 
---Autenticação de Usuário: Sistema de login para membros, staff e administradores.
+Autenticação de Usuário: Sistema de login para membros, staff e administradores.
 --CRUD de Membros: Adição, edição e exclusão de membros (apenas para administradores).
 --CRUD de Classes: Criação, edição e exclusão de aulas disponíveis na academia.
 --CRUD de Exercícios: Criação, edição e exclusão de exercícios, com a possibilidade de definir repetições.
@@ -47,9 +47,18 @@ gym-club/
 
 ## Imagens do Projeto
 
-#Home Page
+# Home Page
 ![Descrição da Imagem](imagensprojeto/home1.jpeg)
 ![Descrição da Imagem](imagensprojeto/home2.jpeg)
 ![Descrição da Imagem](imagensprojeto/home3.jpeg)
 ![Descrição da Imagem](imagensprojeto/home4.jpeg)
 ![Descrição da Imagem](imagensprojeto/home5.jpeg)
+
+# Login page
+![Descrição da Imagem](imagensprojeto/login.jpeg)
+
+# Admin dashboard page
+![Descrição da Imagem](imagensprojeto/admindash.jpeg)
+
+# Admin members page
+![Descrição da Imagem](imagensprojeto/members.jpeg)

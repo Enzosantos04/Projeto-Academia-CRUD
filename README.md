@@ -4,13 +4,13 @@ Bem-vindo ao Gym's Club! Este projeto é um site para uma academia que permite o
 
 ## Funcionalidades
 
-Autenticação de Usuário: Sistema de login para membros, staff e administradores.
---CRUD de Membros: Adição, edição e exclusão de membros (apenas para administradores).
---CRUD de Classes: Criação, edição e exclusão de aulas disponíveis na academia.
---CRUD de Exercícios: Criação, edição e exclusão de exercícios, com a possibilidade de definir repetições.
---CRUD de Rotinas: Criação, edição e exclusão de rotinas personalizadas para membros.
---Visualização de Classes e Rotinas: Membros podem visualizar as classes e rotinas às quais estão inscritos.
---Interface de Administração: Funcionalidades para os administradores gerenciarem membros, classes e rotinas, utilizando operações CRUD.
+- Autenticação de Usuário: Sistema de login para membros, staff e administradores.
+- CRUD de Membros: Adição, edição e exclusão de membros (apenas para administradores).
+- CRUD de Classes: Criação, edição e exclusão de aulas disponíveis na academia.
+- CRUD de Exercícios: Criação, edição e exclusão de exercícios, com a possibilidade de definir repetições.
+- CRUD de Rotinas: Criação, edição e exclusão de rotinas personalizadas para membros.
+- Visualização de Classes e Rotinas: Membros podem visualizar as classes e rotinas às quais estão inscritos.
+- Interface de Administração: Funcionalidades para os administradores gerenciarem membros, classes e rotinas, utilizando operações CRUD.
 
 ## Tecnologias Utilizadas
 

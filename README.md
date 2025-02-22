@@ -1,8 +1,8 @@
-# Gym's Club
+# 🏋️‍♂️💪 Gym's Club
 
 Bem-vindo ao Gym's Club! Este projeto é um site para uma academia que permite o gerenciamento eficiente de membros e classes. Os membros podem visualizar as aulas às quais foram atribuídos. A equipe (staff) pode criar novas aulas, definir repetições, criar rotinas e vincular membros a essas rotinas e exercícios. O administrador tem acesso a todas essas funcionalidades, além da capacidade de adicionar e excluir membros.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Autenticação de Usuário: Sistema de login para membros, staff e administradores.
 - CRUD de Membros: Adição, edição e exclusão de membros (apenas para administradores).
@@ -12,14 +12,14 @@ Bem-vindo ao Gym's Club! Este projeto é um site para uma academia que permite o
 - Visualização de Classes e Rotinas: Membros podem visualizar as classes e rotinas às quais estão inscritos.
 - Interface de Administração: Funcionalidades para os administradores gerenciarem membros, classes e rotinas, utilizando operações CRUD.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - PHP
 - MySQL
 - HTML
 - CSS
 
-## Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
 ```
 gym-club/

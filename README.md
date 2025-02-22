@@ -47,4 +47,4 @@ gym-club/
 
 ## Imagens do Projeto
 
-![Descrição da Imagem](imagensprojeto/imagem.jpg)
+![Descrição da Imagem](imagensprojeto/home1.jpeg)
